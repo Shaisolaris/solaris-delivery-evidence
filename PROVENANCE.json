@@ -1,0 +1,25 @@
+{
+  "source_repository": "https://github.com/Shaisolaris/solaris-dev-shop",
+  "source_commit": "3a577e42c48473f6ef8680950dd55c067820d5d3",
+  "version": "0.64.0",
+  "runtime_files": {
+    "employees/product-project/delivery-lead/delivery_evidence.py": "4f9dc61f70de80a0c5192f0e5975224f5d4261182ef8808b477f73e9cd1ed8a4",
+    "employees/quality-security/assurance/quality_os.py": "8f79da932f754e38a893f4965a6679cc78d0cd67af0c84d019bbeecac2d34515",
+    "employees/infrastructure/fleet-dispatcher/handoff.py": "71131318030c8babb9bac0751df9190a0df813abde0d624cc0caffae67d80c55",
+    "employees/infrastructure/fleet-provisioner/registry.py": "dcbcc44374b6ac6622ceaefcc5eaad03eb962aa6150812c74f2a02cb0a68b6db",
+    "employees/product-project/project-onboarding/activate.py": "7c9d954f6802bc47d82f7e1d7303bab8ba7c576f56fdc242ab7c3bed5259912b"
+  },
+  "exposed_workflows": 1,
+  "provider_approval": false,
+  "scope": "Focused optional companion; the full61-specialist DevShop is maintained separately.",
+  "source_files": {
+    "employees/product-project/delivery-lead/delivery_evidence.py": "d3265fb98eca02f121f1c7f318c1f3ba320cbc5866a475733d2fb59ba614b773",
+    "employees/quality-security/assurance/quality_os.py": "8f79da932f754e38a893f4965a6679cc78d0cd67af0c84d019bbeecac2d34515",
+    "employees/infrastructure/fleet-dispatcher/handoff.py": "71131318030c8babb9bac0751df9190a0df813abde0d624cc0caffae67d80c55",
+    "employees/infrastructure/fleet-provisioner/registry.py": "dcbcc44374b6ac6622ceaefcc5eaad03eb962aa6150812c74f2a02cb0a68b6db",
+    "employees/product-project/project-onboarding/activate.py": "7c9d954f6802bc47d82f7e1d7303bab8ba7c576f56fdc242ab7c3bed5259912b"
+  },
+  "adaptations": {
+    "employees/product-project/delivery-lead/delivery_evidence.py": "Role values are syntax-checked caller labels; remove the full staff-directory presence dependency. No authenticated role identity is claimed."
+  }
+}
