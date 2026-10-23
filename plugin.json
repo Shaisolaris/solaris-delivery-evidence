@@ -1,0 +1,19 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "solaris-delivery-evidence",
+  "version": "0.64.0",
+  "description": "Record local command outcomes and reject stale delivery claims using file hashes and work-order receipts.",
+  "author": {
+    "name": "Solaris Technologies",
+    "email": "shehryar@solaristek.com",
+    "url": "https://solaristek.com"
+  },
+  "repository": "https://github.com/Shaisolaris/solaris-delivery-evidence",
+  "homepage": "https://github.com/Shaisolaris/solaris-delivery-evidence",
+  "license": "MIT",
+  "keywords": [
+    "delivery-evidence",
+    "artifact-integrity",
+    "local-workflows"
+  ]
+}
